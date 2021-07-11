@@ -156,7 +156,7 @@
                     </div>
 
                     <div class="bactxt custom-font valign">
-                        <span class="full-width">Contact</span>
+                        <span class="full-width">Холбогдох</span>
                     </div>
                 </div>
             </div>

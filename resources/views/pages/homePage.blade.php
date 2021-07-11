@@ -211,7 +211,7 @@
                     <div class="col-lg-6">
                         <div class="vid-area">
                             <div class="vid-icon">
-                                <a class="vid" href="https://vimeo.com/127203262">
+                                <a class="vid" href="https://vimeo.com/571522431">
                                     <div class="vid-butn">
                                             <span class="icon">
                                                 <i class="fas fa-play"></i>
