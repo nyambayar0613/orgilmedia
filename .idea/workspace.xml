@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52ca1c4b-06f3-4f3c-a4d4-e3456d6dd774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/contactPage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/contactPage.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/homePage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/homePage.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,8 +166,20 @@
       <workItem from="1625556891220" duration="74000" />
       <workItem from="1625567720404" duration="612000" />
       <workItem from="1625742781773" duration="15000" />
-      <workItem from="1625966112678" duration="1194000" />
+      <workItem from="1625966112678" duration="1269000" />
+      <workItem from="1625990785765" duration="1215000" />
+      <workItem from="1627111796879" duration="10000" />
+      <workItem from="1628233905217" duration="383000" />
+      <workItem from="1628245978083" duration="827000" />
     </task>
+    <task id="LOCAL-00001" summary="h">
+      <created>1625970929475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625970929475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,5 +197,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="h" />
+    <option name="LAST_COMMIT_MESSAGE" value="h" />
   </component>
 </project>
